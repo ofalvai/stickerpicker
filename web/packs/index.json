@@ -3,7 +3,12 @@
     "olita.json",
     "kaktus.json",
     "lmp_vk.json",
-    "SpottyFull.json"
+    "SpottyFull.json",
+    "BunnyRosy.json",
+    "DonutAndCoffee.json",
+    "Bunny_Boo.json",
+    "cat_Persik.json",
+    "starlui.json"
   ],
   "homeserver_url": "https://matrix.oliverfalvai.xyz"
 }
