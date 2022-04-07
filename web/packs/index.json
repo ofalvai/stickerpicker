@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "olita.json",
+    "kaktus.json",
+    "lmp_vk.json",
+    "SpottyFull.json"
+  ],
+  "homeserver_url": "https://matrix.oliverfalvai.xyz"
+}
